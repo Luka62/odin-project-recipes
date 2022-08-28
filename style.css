@@ -1,0 +1,21 @@
+* {
+    background-color: beige;
+    font-family: monospace;
+    color: rgb(3, 99, 3);
+}
+#main-name {
+    font-size: 50px;
+    font-weight: 100;
+}
+.main-page-headers {
+    font-size: 25px;
+}
+.headers {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+li {
+    font-size: 20px;
+}
